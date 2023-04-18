@@ -2,7 +2,7 @@
 
 ## Description
 
-This is challeng was to refactor the given code/website to meet tthe acceptance criteria, and make the website ready for use and optomized for search engines. This involded recoding elements/attributes to be more organized, structural, and descriptive when viewed by the user. This allowed me to learn what and how to code the needed criteia of a full functioning webpage.
+This is challeng was to refactor the given code/website to meet the acceptance criteria, and make the website ready for use and optomized for search engines. This involded recoding elements/attributes to be more organized, structural, and descriptive when viewed by the user. This allowed me to learn what and how to code the needed criteia of a full functioning webpage.
 
 ## Usage
 
